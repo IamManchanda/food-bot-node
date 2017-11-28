@@ -1,0 +1,11 @@
+{
+  "name": "food-bot",
+  "version": "1.0.0",
+  "description": "Food Bot",
+  "main": "app.js",
+  "author": "Harry Manchanda @IamManchanda",
+  "license": "MIT",
+  "dependencies": {
+    "command-line-args": "^4.0.7"
+  }
+}
